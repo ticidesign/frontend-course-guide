@@ -34,6 +34,8 @@
 
 Thinking in React - [Original Article](https://facebook.github.io/react/docs/thinking-in-react) by Pete Hunt and [Video](http://tagtree.tv/thinking-in-react) with an accompanying blog post by Hendrik Swanepoel. These resources will help you better visualise a React app.
 
+[Curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) for React.js Program's "React Fundamentals" [course](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
+
 ----
 ## CSS
 
