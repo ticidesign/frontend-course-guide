@@ -36,6 +36,12 @@ Thinking in React - [Original Article](https://facebook.github.io/react/docs/thi
 
 [Curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) for React.js Program's "React Fundamentals" [course](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 
+
+----
+## Node
+
+[Nodecast](https://nodecasts.io/) is like [Laracasts](https://laracasts.com/), but for, well, Node.
+
 ----
 ## CSS
 
