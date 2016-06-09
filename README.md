@@ -6,6 +6,11 @@
 [Awesome](https://github.com/sindresorhus/awesome/): A curated list of awesome lists.
 
 ----
+## PureScript
+
+Step-by-step tutorial materials for the ["A Whirlwind Tour of PureScript"](http://robhoward.id.au/talks/2016/04/a-whirlwind-tour-of-purescript/) workshop held at YOW! Lambda Jam 2016 in Brisbane, Australia. 
+
+----
 ## JavaScript
 
 [bmkmanoj/js-by-examples](https://github.com/bmkmanoj/js-by-examples): A collection of code snippets explaining JS concepts.
@@ -17,7 +22,16 @@
 [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 
 ----
+## Meteor
+
+[The Meteor Chef](https://themeteorchef.com/). Learn how to build neat stuff with Meteor!
+
+
+----
 ### React
+
+[React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
+
 [Complementary Tools](https://github.com/facebook/react/wiki/Complementary-Tools): A very formidable list of React tools, by Facebook
 
 [React for Beginners](https://reactforbeginners.com/): React video series by [Wes Bos](https://twitter.com/wesbos?lang=en)
@@ -36,6 +50,11 @@ Thinking in React - [Original Article](https://facebook.github.io/react/docs/thi
 
 [Curriculum](https://github.com/ReactjsProgram/react-fundamentals-curriculum) for React.js Program's "React Fundamentals" [course](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
 
+[Learn Redux](https://learnredux.com/)
+
+[Building React Applications with Idiomatic Redux](https://egghead.io/courses/building-react-applications-with-idiomatic-redux)
+
+Article: [Styling React](http://survivejs.com/react/advanced-techniques/styling-react/)
 
 ----
 ## Node
@@ -75,13 +94,20 @@ Thinking in React - [Original Article](https://facebook.github.io/react/docs/thi
 
 ----
 
+## Courses
+
+[FreeCodeCamp](https://www.freecodecamp.com/)
+
+[Evented Mind](https://www.eventedmind.com/)
+
 ----
 ## UX
 
-The Complete List of User Experience (UX) [Resources & Tools] (https://medium.freecodecamp.com/the-complete-list-of-user-experience-ux-resources-tools-7af32aa129f6#.iumggsc8l)
+The Complete List of User Experience (UX) [Resources & Tools](https://medium.freecodecamp.com/the-complete-list-of-user-experience-ux-resources-tools-7af32aa129f6#.iumggsc8l)
 
 ----
 ## Code Challenges
+
 ### JavaScript
 
 [Wes Bos JS Challenge #1](https://twitter.com/wesbos/status/694530601286676480?utm_source=newsletter&utm_medium=email&utm_campaign=question): Start example in
