@@ -60,6 +60,7 @@ Article: [Styling React](http://survivejs.com/react/advanced-techniques/styling-
 ## Node
 
 [Nodecast](https://nodecasts.io/) is like [Laracasts](https://laracasts.com/), but for, well, Node.
+[Node cast new link](https://teachable.com/)
 
 ----
 ## CSS
