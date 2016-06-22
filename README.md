@@ -26,6 +26,7 @@ Step-by-step tutorial materials for the ["A Whirlwind Tour of PureScript"](http:
 
 [The Meteor Chef](https://themeteorchef.com/). Learn how to build neat stuff with Meteor!
 
+[REST2DDP](http://devpost.com/software/rest2ddp) provides a REST API but the world wants it as a live updating DDP API.
 
 ----
 ### React
