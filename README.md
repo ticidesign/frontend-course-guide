@@ -119,9 +119,15 @@ The Complete List of User Experience (UX) [Resources & Tools](https://medium.fre
 
 [Wes Bos JS Challenge #2](https://twitter.com/wesbos/status/699967550621380608?utm_source=newsletter&utm_medium=email&utm_campaign=question): Start example in [CodePen](http://codepen.io/wesbos/pen/JGVryP)
 
+[LeetCode](https://leetcode.com/)
+
+[Interview bit](https://www.interviewbit.com/)
+
 ----
 ## Job Sites
 
 [https://www.workshape.io/](https://www.workshape.io/)
 
 [https://hired.com.au/](https://hired.com.au/)
+
+[The Vital Guide to JavaScript Interviewing](https://www.toptal.com/javascript#hiring-guide)
