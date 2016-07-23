@@ -31,6 +31,8 @@ Step-by-step tutorial materials for the ["A Whirlwind Tour of PureScript"](http:
 ----
 ### React
 
+[A Complete Intro to React](https://github.com/btholt/complete-intro-to-react)
+
 [React.js Conf 2016](https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY)
 
 [Complementary Tools](https://github.com/facebook/react/wiki/Complementary-Tools): A very formidable list of React tools, by Facebook
