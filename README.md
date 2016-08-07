@@ -68,6 +68,12 @@ Article: [Styling React](http://survivejs.com/react/advanced-techniques/styling-
 [Node School](http://nodeschool.io/)
 
 ----
+## NodeBots
+
+Some examples in prep for [Nodebots Day 2016](https://github.com/DamonOehlman/nbd2016-syd)
+
+
+----
 ## CSS
 
 [CSS Protips](https://github.com/AllThingsSmitty/css-protips): A collection of tips to help take your CSS skills pro.
