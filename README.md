@@ -21,6 +21,8 @@ Step-by-step tutorial materials for the ["A Whirlwind Tour of PureScript"](http:
 
 [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 
+[JSBooks](http://jsbooks.revolunet.com/)
+
 ----
 ## Meteor
 
