@@ -23,6 +23,8 @@ Step-by-step tutorial materials for the ["A Whirlwind Tour of PureScript"](http:
 
 [JSBooks](http://jsbooks.revolunet.com/)
 
+[Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
 ----
 ## Meteor
 
