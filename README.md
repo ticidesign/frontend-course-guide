@@ -5,6 +5,8 @@
 
 [Awesome](https://github.com/sindresorhus/awesome/): A curated list of awesome lists.
 
+[Awesome Case-study](https://github.com/luruke/awesome-casestudy)
+
 ----
 ## PureScript
 
@@ -87,6 +89,10 @@ Some examples in prep for [Nodebots Day 2016](https://github.com/DamonOehlman/nb
 [Maintainable CSS](http://maintainablecss.com) is an approach to writing modular, scalable and of course, maintainable CSS. 
 
 ----
+## WebGL
+
+[WEBGL Academy](http://www.webglacademy.com/)
+----
 ## SVG
 
 [Finessing `feColorMatrix`](http://alistapart.com/article/finessing-fecolormatrix): A blog about SVG filters used for photo manipulation
@@ -115,6 +121,8 @@ Some examples in prep for [Nodebots Day 2016](https://github.com/DamonOehlman/nb
 [FreeCodeCamp](https://www.freecodecamp.com/)
 
 [Evented Mind](https://www.eventedmind.com/)
+
+[Learning Material Software Development](https://learnitmyway.com/2016/11/11/learning-material-software-development/)
 
 ----
 ## UX
