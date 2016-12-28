@@ -92,6 +92,7 @@ Some examples in prep for [Nodebots Day 2016](https://github.com/DamonOehlman/nb
 ## WebGL
 
 [WEBGL Academy](http://www.webglacademy.com/)
+
 ----
 ## SVG
 
@@ -117,6 +118,8 @@ Some examples in prep for [Nodebots Day 2016](https://github.com/DamonOehlman/nb
 ----
 
 ## Courses
+
+[Learning material – Software Development](https://learnitmyway.com/2016/11/11/learning-material-software-development/)
 
 [FreeCodeCamp](https://www.freecodecamp.com/)
 
