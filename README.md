@@ -17,9 +17,7 @@ Step-by-step tutorial materials for the ["A Whirlwind Tour of PureScript"](http:
 
 [bmkmanoj/js-by-examples](https://github.com/bmkmanoj/js-by-examples): A collection of code snippets explaining JS concepts.
 
-
 [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS): A book series on JavaScript
-
 
 [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details)
 
@@ -66,6 +64,11 @@ Thinking in React - [Original Article](https://facebook.github.io/react/docs/thi
 Article: [Styling React](http://survivejs.com/react/advanced-techniques/styling-react/)
 
 ----
+## Machine Learning
+
+[Have Fun with Machine Learning: A Guide for Beginners](https://github.com/humphd/have-fun-with-machine-learning)
+
+----
 ## Node
 
 [Nodecast](https://nodecasts.io/) is like [Laracasts](https://laracasts.com/), but for, well, Node.
@@ -77,7 +80,6 @@ Article: [Styling React](http://survivejs.com/react/advanced-techniques/styling-
 ## NodeBots
 
 Some examples in prep for [Nodebots Day 2016](https://github.com/DamonOehlman/nbd2016-syd)
-
 
 ----
 ## CSS
